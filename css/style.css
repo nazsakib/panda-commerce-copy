@@ -1,0 +1,27 @@
+.panda-bg-info {
+  background-color: #fceae8;
+}
+
+/* button colors */
+
+.panda-btn {
+  background-color: #ff3685;
+  color: white;
+}
+.btn:hover {
+  background-color: #3665ff;
+}
+
+/* categories */
+.categories img {
+  width: 100px;
+}
+.categories-bg-1 {
+  background-color: #ffa500;
+}
+.categories-bg-2 {
+  background-color: #da70d6;
+}
+.categories-bg-3 {
+  background-color: #0000ff;
+}
